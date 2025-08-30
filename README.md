@@ -1,19 +1,15 @@
 <h1 align="center">Tanush Bhootra</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Developer | UI/UX Designer</h3>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Clean+Code+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;React+Developer;NextJS+Developer)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanushbhootra576&label=Profile%20views&color=007ACC&style=flat" alt="profile-views" />
-</p>
-
 ## Professional Summary
 
-Frontend developer with a focus on creating responsive and user-centric web applications. Committed to writing clean, maintainable code and implementing modern web development practices.
+A passionate Frontend Developer and UI/UX Designer with expertise in creating modern web applications. Specialized in React.js and Next.js, with a strong focus on building responsive, user-friendly interfaces that deliver exceptional user experiences. Currently pursuing B.Tech in Computer Science at VIT Chennai.
 
 ## Technical Proficiencies
 
@@ -70,31 +66,42 @@ Frontend developer with a focus on creating responsive and user-centric web appl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushbhootra576&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
+## Technical Expertise
+
+- **Frontend**: React.js, Next.js, JavaScript (ES6+), TypeScript
+- **Styling**: Tailwind CSS, SCSS, Styled Components, Framer Motion
+- **State Management**: Redux, Context API, Zustand
+- **Backend Integration**: RESTful APIs, Firebase
+- **Version Control**: Git, GitHub
+- **Design**: Figma, Adobe XD
+- **Development Tools**: VS Code, Chrome DevTools, Postman
+
 ## Current Focus
 
-- Deepening expertise in React.js and modern JavaScript
-- Exploring advanced CSS animations and layouts
-- Learning web performance optimization techniques
-- Studying UI/UX design principles
-
-## Professional Development
-
-Currently enhancing skills in:
-- Component-driven development
-- Responsive design patterns
-- State management
-- Web accessibility standards
+- Building scalable applications with Next.js 13
+- Implementing modern authentication solutions
+- Mastering TypeScript and advanced React patterns
+- Exploring Three.js for 3D web experiences
 
 ## Connect Professionally
 
 <p align="left">
-  <a href="your-linkedin-url" target="_blank">
+  <a href="https://www.linkedin.com/in/tanushbhootra/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:tanushbhootra576@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
   </a>
+  <a href="https://tanushportfolio.vercel.app/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
+
+## Portfolio Projects
+
+- [Next.js Portfolio](https://tanushportfolio.vercel.app/) - Modern portfolio website built with Next.js and Tailwind CSS
+- [Netflix Clone](https://netflix-clone-azure-delta.vercel.app/) - A Netflix clone built with React.js and Firebase
+- [ResearchGPT](https://researchgpt-nine.vercel.app/) - AI-powered research paper analysis tool
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width="100%"/>
