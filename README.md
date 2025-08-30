@@ -52,25 +52,12 @@ A passionate Frontend Developer and UI/UX Designer with expertise in creating mo
   </a>
 </p>
 
-## Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushbhootra576&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanushbhootra576&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushbhootra576&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
 
 ## Technical Expertise
 
 - **Frontend**: React.js, Next.js, JavaScript (ES6+), TypeScript
-- **Styling**: Tailwind CSS, SCSS, Styled Components, Framer Motion
-- **State Management**: Redux, Context API, Zustand
+- **Styling**: Tailwind CSS, SCSS, Styled Components, Framer Motion ,GSAP
+- **State Management**: Redux, Context API
 - **Backend Integration**: RESTful APIs, Firebase
 - **Version Control**: Git, GitHub
 - **Design**: Figma, Adobe XD
@@ -86,22 +73,15 @@ A passionate Frontend Developer and UI/UX Designer with expertise in creating mo
 ## Connect Professionally
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanushbhootra/" target="_blank">
+  <a href="https://www.linkedin.com/in/tanushbhootra576/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:tanushbhootra576@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
-  </a>
+
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 
-## Portfolio Projects
-
-- [Next.js Portfolio](https://tanushportfolio.vercel.app/) - Modern portfolio website built with Next.js and Tailwind CSS
-- [Netflix Clone](https://netflix-clone-azure-delta.vercel.app/) - A Netflix clone built with React.js and Firebase
-- [ResearchGPT](https://researchgpt-nine.vercel.app/) - AI-powered research paper analysis tool
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width="100%"/>
