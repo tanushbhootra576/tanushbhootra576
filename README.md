@@ -3,10 +3,10 @@
 <h3 align="center">Coder | Editor | Developer</h3>
 
 ---
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoZzVvdDAzeDIzbnB0Mm1pZTBlYXZ5ZXp6NHVvcXlkZjhtcDR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Banner Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2p5czRjZWxkYzJ2YWZ2cmR2dWY0dHBjMTBvdWFrandrYjM3MHhhNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif"/>
 </p>
+
 <p align="center">
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio"/>
@@ -49,7 +49,7 @@
 
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2p5czRjZWxkYzJ2YWZ2cmR2dWY0dHBjMTBvdWFrandrYjM3MHhhNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoZzVvdDAzeDIzbnB0Mm1pZTBlYXZ5ZXp6NHVvcXlkZjhtcDR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Banner Animation" />
 </p>
+
