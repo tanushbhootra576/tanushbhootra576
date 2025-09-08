@@ -1,82 +1,70 @@
+<!-- Banner / Header -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV5aHdlZ2NhMndibDJjZ2ZtbnM3a3NpYjVhYXJiaTJqbjY0YTZ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="300" alt="Animated Banner" />
+  <img src="https://media2.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Banner Animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tanush Bhootra</h1>
-<h3 align="center">Coder | Editor | Developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff4b91;">Tanush Bhootra</span></h1>
+<h3 align="center">💻 Coder | 🎬 Editor | 🚀 Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/tanushbhootra576">
-    <img src="https://komarev.com/ghpvc/?username=tanushbhootra576&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+---
 
+<!-- Badges / Social Links -->
 <p align="center">
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/tanushbhootra576" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=tanushbhootra576&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 👨‍💻 All of my projects are available at [tanushportfolio.vercel.app](https://tanushportfolio.vercel.app/)
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tanushbhootra576)
+## 🚀 About Me  
+- 👨‍💻 Explore all my projects here → [tanushportfolio.vercel.app](https://tanushportfolio.vercel.app/)  
+- 📫 Connect with me on → [LinkedIn](https://linkedin.com/in/tanushbhootra576)  
+- 🌱 Currently exploring → **Full Stack Development & Cloud Tech**  
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,python,matlab,react,nodejs,tailwind,git,postman&perline=7" alt="Skills" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushbhootra576&show_icons=true&theme=radical" alt="Tanush's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushbhootra576&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanushbhootra576&theme=radical" alt="Trophies"
-
-
-    ...existing code...
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=radical&area=true&hide_border=true" alt="Tanush's Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanushbhootra576&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushbhootra576&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 ---
 
-### ✨ Fun Fact
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=I+love+turning+ideas+into+code!;Always+learning+something+new+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanushbhootra576&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=radical&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## ✨ Fun Fact  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4B91&center=true&vCenter=true&width=500&lines=I+love+turning+ideas+into+code!;Always+learning+something+new+💡;Code.+Create.+Innovate." alt="Typing SVG"/>
+</p>
