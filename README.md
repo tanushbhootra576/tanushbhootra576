@@ -1,4 +1,3 @@
-<!-- Banner / Header -->
 
 <h1 align="center">Hi, I'm <span style="color:#ff4b91;">Tanush Bhootra</span></h1>
 <h3 align="center">Coder | Editor | Developer</h3>
@@ -23,30 +22,22 @@
 ---
 
 ## About Me  
--  Explore all my projects here → [tanushportfolio.vercel.app](https://tanushportfolio.vercel.app/)  
--  Connect with me on → [LinkedIn](https://linkedin.com/in/tanushbhootra576)  
--  Currently exploring → **Full Stack Development & Cloud Tech**  
+- Explore all my projects here → [tanushportfolio.vercel.app](https://tanushportfolio.vercel.app/)  
+- Connect with me on → [LinkedIn](https://linkedin.com/in/tanushbhootra576)  
+- Currently exploring → **Full Stack Development & Cloud Tech**  
 
 ---
 
 ##  Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,matlab,react,next,nodejs,tailwind,git,github,vercel,render,postman&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,matlab,react,next,nodejs,tailwind,git,github,vercel,postman&perline=7" alt="Skills" />
 </p>
 
 ---
 
-##  GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushbhootra576&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushbhootra576&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
-</p>
-
----
-
-##  Achievements & Highlights
+## Achievements & Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanushbhootra576&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
@@ -57,7 +48,7 @@
 
 ---
 
-##  Contribution Graph & Insights
+## Contribution Graph & Insights
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=radical&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -65,14 +56,10 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=tanushbhootra576&limit=5&theme=radical" alt="Contributor Stats"/>
 </p>
-<p align="center">
-  <b>Did you know?</b>  
-  <i>I love seeing my contribution graph light up!  
-  Every square is a story of learning, building, and sharing 🚀</i>
-</p>
+
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4B91&center=true&vCenter=true&width=500&lines=I+love+turning+ideas+into+code!;Always+learning+something+new+💡;Code.+Create.+Innovate" alt="Typing SVG"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2p5czRjZWxkYzJ2YWZ2cmR2dWY0dHBjMTBvdWFrandrYjM3MHhhNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif"/>
 </p>
