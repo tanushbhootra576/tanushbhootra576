@@ -60,3 +60,23 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tanushbhootra576&theme=radical" alt="Trophies"
+
+
+    ...existing code...
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=radical&area=true&hide_border=true" alt="Tanush's Contribution Graph" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=I+love+turning+ideas+into+code!;Always+learning+something+new+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
