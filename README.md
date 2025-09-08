@@ -34,17 +34,9 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,matlab,react,next,nodejs,tailwind,git,github,vercel,postman&perline=7" alt="Skills" />
 </p>
 
----
 
 
-## Achievements & Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanushbhootra576&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanushbhootra576&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
@@ -53,9 +45,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=radical&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tanushbhootra576&limit=5&theme=radical" alt="Contributor Stats"/>
-</p>
+
 
 
 ---
