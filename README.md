@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm <span style="color:#ff4b91;">Tanush Bhootra</span></h1>
+<h1 align="center">Hi, I'm Tanush Bhootra</span></h1>
 <h3 align="center">Coder | Editor | Developer</h3>
 
 ---
