@@ -9,15 +9,13 @@
 
 <p align="center">
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Open-8b5cf6?style=plastic&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/tanushbhootra576" target="_blank">
-    <img src="https://img.shields.io/badge/Profile%20Views-Count-6e5494?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-2563eb?style=plastic&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
