@@ -9,16 +9,13 @@
 
 <p align="center">
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://github.com/tanushbhootra576/portfolio/blob/main/public/imgs/hard-work.png"
-         alt="Portfolio"
-         height="38" />
+ <img src="https://skillicons.dev/icons?i=htmx&perline=7" />
+   
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn"
-         height="38" />
+ <img src="https://skillicons.dev/icons?i=linkedin&perline=7" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
