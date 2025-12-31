@@ -29,26 +29,9 @@
 ---
 
 ##  Languages & Tools  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=
-c,cpp,python,java,
-html,css,js,ts,
-react,next,nodejs,express,
-tailwind,bootstrap,
-mongodb,mysql,postgres,redis,
-docker,kubernetes,
-aws,azure,gcp,
-git,github,gitlab,
-vercel,netlify,
-postman,graphql,
-linux,bash,
-firebase,supabase,
-flutter,androidstudio,
-figma,matlab
-&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,react,next,nodejs,express,tailwind,bootstrap,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,vercel,netlify,postman,graphql,linux,bash,firebase,figma&perline=7" />
 </p>
-
 
 
 
