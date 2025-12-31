@@ -71,8 +71,13 @@ I am constantly seeking opportunities to **apply my skills in real-world scenari
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 <p align="center">
-  <img src="assets/snake-graph.gif" alt="Snake Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
