@@ -28,10 +28,29 @@
 
 ---
 
-## About Me  
-- Explore all my projects here → [tanushportfolio.vercel.app](https://tanushportfolio.vercel.app/)  
-- Connect with me on → [LinkedIn](https://linkedin.com/in/tanushbhootra576)  
-- Currently exploring → **Full Stack Development & Cloud Tech**  
+## About Me
+
+I am a second-year **B.Tech Computer Science** student at VIT Chennai with a strong passion for **web development** and **software engineering**. I have hands-on experience with **HTML5, CSS, JavaScript**, and modern frameworks like **React, Next.js, and Tailwind CSS**, along with programming expertise in **Python, C, C++, and Java**.
+
+I continuously enhance my **problem-solving skills** through algorithmic and data structure challenges and bring ideas to life with personal and collaborative projects. Some of the notable projects I’ve worked on include:
+
+- **Campus Connect** – A student-centric platform for collaboration, real-time chat, discussion forums, and project showcases.  
+- **Civic Issue Reporting App** – A platform for reporting civic issues with live maps, enabling quick action and community empowerment.  
+- **GridSaga** – An interactive 3D Rubik’s Cube twist on the classic 2048 game using Next.js, React, and TypeScript.  
+- **Portfolio Website** – A modern, interactive personal portfolio with 3D interactions, responsive design, and creative UX elements.  
+
+I have contributed as a **Web Developer** and **Student Ambassador** in multiple organizations including **Bionary Club, CodeChef VIT, and PW (PhysicsWallah)**. Additionally, I actively engage in **leadership roles, campus initiatives, and hackathons** to strengthen both technical and soft skills.
+
+I am constantly seeking opportunities to **apply my skills in real-world scenarios**, grow as a developer, and collaborate on meaningful projects that make an impact.
+
+### Skills & Expertise
+- Web Development & Full-Stack Development  
+- Frontend Design & UI/UX  
+- **Frameworks:** React, Next.js, Tailwind CSS, Redux, Context API  
+- **Languages:** Python, C, C++, Java, JavaScript, TypeScript  
+- Data Structures & Algorithms  
+- Problem Solving & Project Management  
+- Creative Design & Interactive Web Experiences
 
 ---
 
@@ -49,7 +68,7 @@
 ## Contribution Graph & Insights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=radical&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 
