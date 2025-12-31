@@ -8,16 +8,16 @@
 </p>
 
 <p align="center">
-  <!-- Portfolio -->
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
          alt="Portfolio"
-         height="38"
-         style="filter: invert(1);" />
+         height="38" />
+    <img src="https://github.com/tanushbhootra576/portfolio/blob/main/public/imgs/hard-work.png"
+         alt="Portfolio"
+         height="38" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
@@ -25,7 +25,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- GitHub -->
   <a href="https://github.com/tanushbhootra576" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
          alt="GitHub"
