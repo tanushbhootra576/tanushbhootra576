@@ -73,6 +73,11 @@ I am constantly seeking opportunities to **apply my skills in real-world scenari
 
 
 
+<p align="center">
+  <img src="assets/snake-graph.gif" alt="Snake Contribution Graph"/>
+</p>
+
+
 ---
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoZzVvdDAzeDIzbnB0Mm1pZTBlYXZ5ZXp6NHVvcXlkZjhtcDR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Banner Animation" />
