@@ -70,9 +70,6 @@ I am constantly seeking opportunities to **apply my skills in real-world scenari
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
-
-
-
 <p align="center">
   <img src="assets/snake-graph.gif" alt="Snake Contribution Graph"/>
 </p>
