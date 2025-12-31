@@ -9,11 +9,12 @@
 
 <p align="center">
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Open-8b5cf6?style=plastic&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-tanushportfolio.vercel.app-black?style=flat&logo=vercel" />
   </a>
   <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-2563eb?style=plastic&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tanush%20Bhootra-black?style=flat&logo=linkedin" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=tanushbhootra576&label=Views&color=grey&style=flat" />
 </p>
 
 
