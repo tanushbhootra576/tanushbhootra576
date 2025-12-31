@@ -79,27 +79,6 @@ I am constantly seeking opportunities to **apply my skills in real-world scenari
 </p>
 
 
----
-
-## 🎮 Play PongX — Interactive Browser Game
-
-<p align="center">
-  <a href="https://tanushbhootra576.github.io/PongX/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Now-PongX-black?style=for-the-badge&logo=gamepad&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://tanushbhootra576.github.io/PongX/" target="_blank">
-    <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="420" alt="Pong Game Preview"/>
-  </a>
-</p>
-
-<p align="center">
-  🕹️ A fast-paced **Pong-style arcade game** built using **HTML, CSS & JavaScript**.  
-  <br/>
-  🎯 Fully interactive • Keyboard-controlled • Runs in the browser
-</p>
 
 ---
 <p align="center">
