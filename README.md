@@ -8,22 +8,28 @@
 </p>
 
 <p align="center">
+  <!-- Portfolio -->
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="28" />
-    <br/>
-    <sub>Portfolio</sub>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg"
+         alt="Portfolio"
+         height="38"
+         style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
-    <br/>
-    <sub>LinkedIn</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         height="38" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/tanushbhootra576" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="28" />
-    <br/>
-    <sub>GitHub</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub"
+         height="38" />
   </a>
 </p>
 
