@@ -23,9 +23,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/tanushbhootra576" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         alt="GitHub"
-         height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+     style="filter: brightness(0) invert(1);" height="38">
   </a>
 </p>
 
