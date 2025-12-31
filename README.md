@@ -30,7 +30,7 @@
 
 ##  Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,react,next,nodejs,express,tailwind,bootstrap,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,vercel,netlify,postman,graphql,linux,bash,firebase,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,rust,html,css,js,ts,react,next,vue,angular,nodejs,express,nestjs,tailwind,bootstrap,materialui,redux,mongodb,mysql,postgres,redis,sqlite,firebase,supabase,docker,kubernetes,aws,azure,gcp,git,github,gitlab,githubactions,jenkins,vercel,netlify,postman,graphql,linux,bash,powershell,figma,xd,jest,cypress,selenium,tensorflow,pytorch,sklearn,opencv,flutter,dart,androidstudio,unity,blender,matlab&perline=7" />
 </p>
 
 
