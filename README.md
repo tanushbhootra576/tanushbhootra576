@@ -9,9 +9,6 @@
 
 <p align="center">
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-         alt="Portfolio"
-         height="38" />
     <img src="https://github.com/tanushbhootra576/portfolio/blob/main/public/imgs/hard-work.png"
          alt="Portfolio"
          height="38" />
