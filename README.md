@@ -9,12 +9,22 @@
 
 <p align="center">
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-tanushportfolio.vercel.app-black?style=flat&logo=vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="28" />
+    <br/>
+    <sub>Portfolio</sub>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanush%20Bhootra-black?style=flat&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+    <br/>
+    <sub>LinkedIn</sub>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tanushbhootra576&label=Views&color=grey&style=flat" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tanushbhootra576" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="28" />
+    <br/>
+    <sub>GitHub</sub>
+  </a>
 </p>
 
 
