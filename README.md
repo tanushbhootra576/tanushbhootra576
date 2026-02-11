@@ -54,6 +54,11 @@ I am constantly seeking opportunities to **apply my skills in real-world scenari
 
 ---
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman.svg">
+</picture>
 
 ###
 
