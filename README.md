@@ -53,25 +53,7 @@ I am constantly seeking opportunities to **apply my skills in real-world scenari
 - Creative Design & Interactive Web Experiences
 
 ---
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman.svg">
-</picture>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
-###
 ---
 
 ##  Languages & Tools  
