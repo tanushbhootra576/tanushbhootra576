@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: tanushbhootra576
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/pacman.svg?palette=github
+            dist/pacman-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
