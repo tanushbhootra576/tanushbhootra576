@@ -53,7 +53,12 @@ I am constantly seeking opportunities to **apply my skills in real-world scenari
 - Creative Design & Interactive Web Experiences
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/pacman-contribution-graph.svg">
+</picture>
+---
 ##  Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,rust,html,css,js,ts,react,next,vue,angular,nodejs,express,nestjs,tailwind,bootstrap,materialui,redux,mongodb,mysql,postgres,redis,sqlite,firebase,supabase,docker,kubernetes,aws,azure,gcp,git,github,gitlab,githubactions,jenkins,vercel,netlify,postman,graphql,linux,bash,powershell,figma,xd,jest,cypress,selenium,tensorflow,pytorch,sklearn,opencv,flutter,dart,androidstudio,unity,blender,matlab&perline=7" />
