@@ -1,87 +1,198 @@
 
-<h1 align="center">Hi, I'm Tanush Bhootra</span></h1>
-<h3 align="center">Coder | Editor | Developer</h3>
 
----
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2p5czRjZWxkYzJ2YWZ2cmR2dWY0dHBjMTBvdWFrandrYjM3MHhhNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif"/>
-</p>
 
-<p align="center">
+<h2 align="left">Hi, I'm Tanush Bhootra</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanushbhootra576&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushbhootra576&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2p5czRjZWxkYzJ2YWZ2cmR2dWY0dHBjMTBvdWFrandrYjM3MHhhNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="30" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="30" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="tanushbhootratanush@gmail.com " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tanushbhootra576/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="tanushbhootratanush@outlook.com " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
   <a href="https://tanushportfolio.vercel.app/" target="_blank">
- <img src="https://skillicons.dev/icons?i=htmx&perline=7" />
-   
+    <img src="https://img.shields.io/static/v1?message=.&logo=dev.to&label=Portfolio&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
-  <a href="https://linkedin.com/in/tanushbhootra576" target="_blank">
- <img src="https://skillicons.dev/icons?i=linkedin&perline=7" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+###
 
-  <a href="https://github.com/tanushbhootra576" target="_blank">
- <img src="https://skillicons.dev/icons?i=github&perline=7" />
-  </a>
-</p>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/snake.svg" alt="Snake animation" />
 
-
----
-
-## About Me
-
-I am a second-year **B.Tech Computer Science** student at VIT Chennai with a strong passion for **web development** and **software engineering**. I have hands-on experience with **HTML5, CSS, JavaScript**, and modern frameworks like **React, Next.js, and Tailwind CSS**, along with programming expertise in **Python, C, C++, and Java**.
-
-I continuously enhance my **problem-solving skills** through algorithmic and data structure challenges and bring ideas to life with personal and collaborative projects. Some of the notable projects I’ve worked on include:
-
-- **Campus Connect** – A student-centric platform for collaboration, real-time chat, discussion forums, and project showcases.  
-- **Civic Issue Reporting App** – A platform for reporting civic issues with live maps, enabling quick action and community empowerment.  
-- **GridSaga** – An interactive 3D Rubik’s Cube twist on the classic 2048 game using Next.js, React, and TypeScript.  
-- **Portfolio Website** – A modern, interactive personal portfolio with 3D interactions, responsive design, and creative UX elements.  
-
-I have contributed as a **Web Developer** and **Student Ambassador** in multiple organizations including **Bionary Club, CodeChef VIT, and PW (PhysicsWallah)**. Additionally, I actively engage in **leadership roles, campus initiatives, and hackathons** to strengthen both technical and soft skills.
-
-I am constantly seeking opportunities to **apply my skills in real-world scenarios**, grow as a developer, and collaborate on meaningful projects that make an impact.
-
-### Skills & Expertise
-- Web Development & Full-Stack Development  
-- Frontend Design & UI/UX  
-- **Frameworks:** React, Next.js, Tailwind CSS, Redux, Context API  
-- **Languages:** Python, C, C++, Java, JavaScript, TypeScript  
-- Data Structures & Algorithms  
-- Problem Solving & Project Management  
-- Creative Design & Interactive Web Experiences
-
----
-
-##  Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,rust,html,css,js,ts,react,next,vue,angular,nodejs,express,nestjs,tailwind,bootstrap,materialui,redux,mongodb,mysql,postgres,redis,sqlite,firebase,supabase,docker,kubernetes,aws,azure,gcp,git,github,gitlab,githubactions,jenkins,vercel,netlify,postman,graphql,linux,bash,powershell,figma,xd,jest,cypress,selenium,tensorflow,pytorch,sklearn,opencv,flutter,dart,androidstudio,unity,blender,matlab&perline=7" />
-</p>
+###
 
 
 
 
 
----
-
-## Contribution Graph & Insights
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake.svg" />
-  </picture>
-</p>
 
 
 
----
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoZzVvdDAzeDIzbnB0Mm1pZTBlYXZ5ZXp6NHVvcXlkZjhtcDR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Banner Animation" />
-</p>
+
+
+
+
+
+
+
 
