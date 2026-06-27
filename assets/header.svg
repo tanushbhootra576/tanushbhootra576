@@ -1,93 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160">
   <defs>
     <style>
-      @keyframes flicker {
-        0%,100% { opacity: 1; }
-        92% { opacity: 1; }
-        93% { opacity: 0.4; }
-        94% { opacity: 1; }
-        96% { opacity: 0.6; }
-        97% { opacity: 1; }
+      @keyframes rise {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
       }
-      @keyframes fadeUp {
-        0% { opacity: 0; transform: translateY(12px); }
-        100% { opacity: 1; transform: translateY(0); }
-      }
-      @keyframes blink {
-        0%,100% { opacity: 1; }
-        50% { opacity: 0; }
-      }
-      @keyframes glitch1 {
-        0%,95%,100% { clip-path: none; transform: none; }
-        96% { clip-path: inset(20% 0 60% 0); transform: translate(-4px, 0); }
-        97% { clip-path: inset(50% 0 20% 0); transform: translate(4px, 0); }
-        98% { clip-path: none; transform: none; }
-      }
-      @keyframes glitch2 {
-        0%,96%,100% { clip-path: none; transform: none; opacity: 0; }
-        97% { clip-path: inset(30% 0 50% 0); transform: translate(6px, 0); opacity: 0.6; }
-        98% { clip-path: inset(60% 0 10% 0); transform: translate(-6px, 0); opacity: 0.6; }
-        99% { opacity: 0; }
-      }
-      .name { animation: flicker 7s infinite; }
-      .glitch-copy { animation: glitch2 7s infinite; }
-      .sub { animation: fadeUp 1.2s ease both; animation-delay: 0.6s; }
-      .cursor { animation: blink 1s step-end infinite; }
+      .n { animation: rise 1s cubic-bezier(0.16, 1, 0.3, 1) both; }
+      .r { animation: rise 1s cubic-bezier(0.16, 1, 0.3, 1) both; animation-delay: 0.2s; }
+      .s { animation: rise 1s cubic-bezier(0.16, 1, 0.3, 1) both; animation-delay: 0.4s; }
     </style>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   style="stop-color:#0d0b09"/>
-      <stop offset="50%"  style="stop-color:#111009"/>
-      <stop offset="100%" style="stop-color:#1a1410"/>
+      <stop offset="0%"   style="stop-color:#0f0d0b"/>
+      <stop offset="100%" style="stop-color:#1c1814"/>
     </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="rl" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   style="stop-color:#F59E0B;stop-opacity:0"/>
-      <stop offset="30%"  style="stop-color:#F59E0B;stop-opacity:0.7"/>
-      <stop offset="70%"  style="stop-color:#F59E0B;stop-opacity:0.7"/>
+      <stop offset="20%"  style="stop-color:#F59E0B;stop-opacity:1"/>
+      <stop offset="80%"  style="stop-color:#F59E0B;stop-opacity:1"/>
       <stop offset="100%" style="stop-color:#F59E0B;stop-opacity:0"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="900" height="220" fill="url(#bg)"/>
+  <rect width="900" height="160" fill="url(#bg)"/>
 
-  <!-- Grid dots -->
-  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-    <circle cx="15" cy="15" r="0.6" fill="#F59E0B" opacity="0.12"/>
-  </pattern>
-  <rect width="900" height="220" fill="url(#grid)"/>
+  <text class="n"
+    x="450" y="85"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="56" font-weight="400"
+    fill="#e8e0d5" text-anchor="middle"
+    letter-spacing="8" opacity="0">TANUSH BHOOTRA</text>
 
-  <!-- Top accent line -->
-  <rect x="0" y="0" width="900" height="1" fill="url(#line)" opacity="0.5"/>
+  <rect class="r"
+    x="320" y="100"
+    width="260" height="1.2"
+    fill="url(#rl)" opacity="0"/>
 
-  <!-- Corner marks -->
-  <path d="M 20 20 L 20 8 L 32 8"   stroke="#F59E0B" stroke-width="1.5" fill="none" opacity="0.6"/>
-  <path d="M 880 20 L 880 8 L 868 8" stroke="#F59E0B" stroke-width="1.5" fill="none" opacity="0.6"/>
-  <path d="M 20 200 L 20 212 L 32 212"   stroke="#F59E0B" stroke-width="1.5" fill="none" opacity="0.6"/>
-  <path d="M 880 200 L 880 212 L 868 212" stroke="#F59E0B" stroke-width="1.5" fill="none" opacity="0.6"/>
-
-  <!-- Status labels -->
-  <text x="36" y="28" font-family="monospace" font-size="9" fill="#F59E0B" opacity="0.55" letter-spacing="3">PROFILE :: ACTIVE</text>
-  <text x="820" y="28" font-family="monospace" font-size="9" fill="#F59E0B" opacity="0.55" letter-spacing="2" text-anchor="end">VIT CHENNAI</text>
-
-  <!-- Glitch copy -->
-  <text class="glitch-copy" x="450" y="128" font-family="Georgia, serif" font-size="68" font-weight="700" fill="#F59E0B" text-anchor="middle" opacity="0" filter="url(#glow)">TANUSH BHOOTRA</text>
-
-  <!-- Main name -->
-  <text class="name" x="450" y="128" font-family="Georgia, serif" font-size="68" font-weight="700" fill="#e8e0d5" text-anchor="middle" letter-spacing="2">TANUSH BHOOTRA</text>
-
-  <!-- Accent line under name -->
-  <rect x="300" y="142" width="300" height="1" fill="url(#line)" opacity="0.45"/>
-
-  <!-- Subtitle -->
-  <text class="sub" x="450" y="172" font-family="monospace" font-size="13" fill="#F59E0B" text-anchor="middle" letter-spacing="8" opacity="0">CODER &amp; DEVELOPER &amp; EDITOR</text>
-
-  <!-- Bottom accent line -->
-  <rect x="0" y="219" width="900" height="1" fill="url(#line)" opacity="0.35"/>
+  <text class="s"
+    x="450" y="128"
+    font-family="'Courier New', Courier, monospace"
+    font-size="11" fill="#F59E0B" text-anchor="middle"
+    letter-spacing="6" opacity="0">CODER  ·  DEVELOPER  ·  EDITOR</text>
 </svg>
