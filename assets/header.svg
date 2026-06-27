@@ -1,43 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
   <defs>
     <style>
-      @keyframes rise {
-        from { opacity: 0; transform: translateY(10px); }
-        to   { opacity: 1; transform: translateY(0); }
+      @keyframes fade {
+        from { opacity: 0; }
+        to   { opacity: 1; }
       }
-      .n { animation: rise 1s cubic-bezier(0.16, 1, 0.3, 1) both; }
-      .r { animation: rise 1s cubic-bezier(0.16, 1, 0.3, 1) both; animation-delay: 0.2s; }
-      .s { animation: rise 1s cubic-bezier(0.16, 1, 0.3, 1) both; animation-delay: 0.4s; }
+      .n { animation: fade 1.2s ease both; }
+      .r { animation: fade 1.2s ease both; animation-delay: 0.3s; }
+      .s { animation: fade 1.2s ease both; animation-delay: 0.6s; }
     </style>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   style="stop-color:#0f0d0b"/>
-      <stop offset="100%" style="stop-color:#1c1814"/>
-    </linearGradient>
-    <linearGradient id="rl" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#F59E0B;stop-opacity:0"/>
-      <stop offset="20%"  style="stop-color:#F59E0B;stop-opacity:1"/>
-      <stop offset="80%"  style="stop-color:#F59E0B;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#F59E0B;stop-opacity:0"/>
-    </linearGradient>
   </defs>
 
-  <rect width="900" height="160" fill="url(#bg)"/>
+  <rect width="900" height="150" fill="#000000"/>
 
   <text class="n"
-    x="450" y="85"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="56" font-weight="400"
+    x="450" y="80"
+    font-family="Georgia, serif"
+    font-size="52" font-weight="400"
     fill="#e8e0d5" text-anchor="middle"
     letter-spacing="8" opacity="0">TANUSH BHOOTRA</text>
 
   <rect class="r"
-    x="320" y="100"
-    width="260" height="1.2"
-    fill="url(#rl)" opacity="0"/>
+    x="350" y="95"
+    width="200" height="1"
+    fill="#F59E0B" opacity="0"/>
 
   <text class="s"
-    x="450" y="128"
+    x="450" y="120"
     font-family="'Courier New', Courier, monospace"
     font-size="11" fill="#F59E0B" text-anchor="middle"
-    letter-spacing="6" opacity="0">CODER  ·  DEVELOPER  ·  EDITOR</text>
+    letter-spacing="5" opacity="0">CODER  ·  DEVELOPER  ·  EDITOR</text>
 </svg>
