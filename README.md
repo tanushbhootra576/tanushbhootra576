@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=720&lines=Building+self-healing+RAG+backends...;Keystroke-level+developer+security+tools.;Full-stack+engineer+%E2%80%94+React%2C+Next.js%2C+Node.js.;CS+Undergrad+%40+VIT+Chennai+%C2%B7+2nd+Year." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=720&lines=Building+scalable+software...;Passionate+about+Backend+%26+ML.;Full-stack+engineer+%E2%80%94+React%2C+Next.js%2C+Node.js.;CS+Undergrad+%40+VIT+Chennai+%C2%B7+2nd+Year." alt="Typing SVG"/>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ---
 
-Second-year B.Tech CS undergrad at VIT Chennai. I build full-stack systems and production-grade tools — ML backends that validate their own answers, civic and student platforms with real-time features, and zero-dependency React performance hooks. Strong foundation in DSA, algorithms, and scalable software design.
+Third-year B.Tech CS undergrad at VIT Chennai. I build full-stack systems and production-grade tools — ML backends that validate their own answers, civic and student platforms with real-time features, and zero-dependency React performance hooks. Strong foundation in DSA, algorithms, and scalable software design.
 
 Web Developer and Student Ambassador at Bionary Club, CodeChef VITCC, and PhysicsWallah. Competing in hackathons, leading campus initiatives, and collaborating on projects that ship.
 
@@ -181,10 +181,6 @@ VS Code extension that detects AI-generated code in real time via keystroke biom
   <img alt="contribution snake" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake.svg"/>
 </picture>
 
-<br/><br/>
-
-[![View 3D Contribution Skyline](https://img.shields.io/badge/View%203D%20Contribution%20Skyline-F59E0B?style=flat-square&logoColor=0f0d0b)](https://skyline.github.com/tanushbhootra576/2024)
-
-</div>
+<br/>
 
 <br/>
