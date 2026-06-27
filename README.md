@@ -1,21 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Building+self-healing+RAG+backends...;Keystroke-level+developer+security+tools.;Zero-dependency+React+19+hooks+%E2%80%94+60fps+by+design.;CS+Undergrad+%40+VIT+Chennai+%C2%B7+2nd+Year." alt="Typing SVG"/>
-
-<br/>
-
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-F59E0B?style=flat-square)](https://linkedin.com/in/tanushbhootra576)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=tanushbhootra576&color=F59E0B&style=flat-square&label=views)](https://github.com/tanushbhootra576)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1410?style=flat-square&logo=vercel&logoColor=F59E0B)](https://tanushportfolio.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1410?style=flat-square&logo=linkedin&logoColor=F59E0B)](https://linkedin.com/in/tanushbhootra576)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1a1410?style=flat-square&logo=github&logoColor=F59E0B)](https://github.com/tanushbhootra576)
-
-</div>
-
 <br/>
 
 ---
@@ -34,36 +18,17 @@ Web Developer and Student Ambassador at Bionary Club, CodeChef VITCC, and Physic
 <tr>
 <td width="50%" valign="top">
 
-**[TheSuperRAG](https://github.com/tanushbhootra576)** &nbsp; ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square)
-
-Self-healing RAG backend that validates its own context, re-queries when confidence fails, and streams citations inline. Built for production correctness — not demo accuracy.
-
-`Python` `LangGraph` `LangChain` `Qdrant` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-**[Epistemic Protocol](https://github.com/tanushbhootra576)** &nbsp; ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square)
-
-VS Code extension that detects AI-generated code in real time via keystroke biometrics — developer security at the input level, before the commit.
-
-`TypeScript` `Python` `VS Code API` `ML`
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 **Projects**
 
-| Project | What it does | Stack | Status |
-|---|---|---|:---:|
-| [use-web-kit](https://github.com/tanushbhootra576) | Zero-dependency React 19 hooks — RAF-batched, SSR-exact, 60fps by design | `TypeScript` `React 19` | 🟢 Stable |
-| [Campus Connect](https://github.com/tanushbhootra576) | Student platform — real-time chat, discussion forums, project showcases | `React` `Node.js` `MongoDB` | 🔵 Complete |
-| [Civic Issue Reporting](https://github.com/tanushbhootra576) | Civic issue reporting with live maps — community-driven quick action | `React` `Maps API` `Node.js` | 🔵 Complete |
-| [GridSaga](https://github.com/tanushbhootra576) | 2048 on a Rubik's Cube — geometry as game mechanic | `Next.js` `TypeScript` | 🔵 Complete |
-| [Portfolio](https://tanushportfolio.vercel.app/) | Interactive personal portfolio — 3D interactions, responsive, creative UX | `Next.js` `Three.js` | 🟢 Live |
+| Project                                                   | What it does                                                               | Stack                              |   Status   |
+| --------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------- | :---------: |
+| [use-web-kit](https://github.com/tanushbhootra576)           | Zero-dependency React 19 hooks — RAF-batched, SSR-exact, 60fps by design  | `TypeScript` `React 19`        |  🟢 Stable  |
+| [Campus Connect](https://github.com/tanushbhootra576)        | Student platform — real-time chat, discussion forums, project showcases   | `React` `Node.js` `MongoDB`  | 🔵 Complete |
+| [Civic Issue Reporting](https://github.com/tanushbhootra576) | Civic issue reporting with live maps — community-driven quick action      | `React` `Maps API` `Node.js` | 🔵 Complete |
+| [GridSaga](https://github.com/tanushbhootra576)              | 2048 on a Rubik's Cube — geometry as game mechanic                        | `Next.js` `TypeScript`         | 🔵 Complete |
+| [Portfolio](https://tanushportfolio.vercel.app/)             | Interactive personal portfolio — 3D interactions, responsive, creative UX | `Next.js` `Three.js`           |   🟢 Live   |
 
 <br/>
 
@@ -76,48 +41,6 @@ VS Code extension that detects AI-generated code in real time via keystroke biom
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
-
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-1a1410?style=flat-square&logo=python&logoColor=F59E0B)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1410?style=flat-square&logo=typescript&logoColor=F59E0B)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1410?style=flat-square&logo=javascript&logoColor=F59E0B)
-![C++](https://img.shields.io/badge/C++-1a1410?style=flat-square&logo=cplusplus&logoColor=F59E0B)
-![Java](https://img.shields.io/badge/Java-1a1410?style=flat-square&logo=openjdk&logoColor=F59E0B)
-
-**AI / ML**
-<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1410?style=flat-square&logo=pytorch&logoColor=F59E0B)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1410?style=flat-square&logo=tensorflow&logoColor=F59E0B)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1410?style=flat-square&logo=scikitlearn&logoColor=F59E0B)
-![LangChain](https://img.shields.io/badge/LangChain-1a1410?style=flat-square&logoColor=F59E0B)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1410?style=flat-square&logoColor=F59E0B)
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend & Backend**
-<br/>
-![React](https://img.shields.io/badge/React-1a1410?style=flat-square&logo=react&logoColor=F59E0B)
-![Next.js](https://img.shields.io/badge/Next.js-1a1410?style=flat-square&logo=nextdotjs&logoColor=F59E0B)
-![Node.js](https://img.shields.io/badge/Node.js-1a1410?style=flat-square&logo=nodedotjs&logoColor=F59E0B)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1410?style=flat-square&logo=fastapi&logoColor=F59E0B)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1410?style=flat-square&logo=tailwindcss&logoColor=F59E0B)
-
-**Databases & Infra**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1410?style=flat-square&logo=postgresql&logoColor=F59E0B)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1410?style=flat-square&logo=mongodb&logoColor=F59E0B)
-![Redis](https://img.shields.io/badge/Redis-1a1410?style=flat-square&logo=redis&logoColor=F59E0B)
-![Firebase](https://img.shields.io/badge/Firebase-1a1410?style=flat-square&logo=firebase&logoColor=F59E0B)
-![Qdrant](https://img.shields.io/badge/Qdrant-1a1410?style=flat-square&logoColor=F59E0B)
-![Docker](https://img.shields.io/badge/Docker-1a1410?style=flat-square&logo=docker&logoColor=F59E0B)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a1410?style=flat-square&logo=githubactions&logoColor=F59E0B)
-![Vercel](https://img.shields.io/badge/Vercel-1a1410?style=flat-square&logo=vercel&logoColor=F59E0B)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -137,42 +60,6 @@ VS Code extension that detects AI-generated code in real time via keystroke biom
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanushbhootra576&theme=gruvbox&no-bg=true&no-frame=true&column=6&margin-w=8" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tanushbhootra576&show_icons=true&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=F59E0B&text_color=9e9589&rank_icon=percentile&custom_title=Stats" height="160"/>
-</td>
-<td align="center">
-<img src="https://streak-stats.demolab.com/?user=tanushbhootra576&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=9e9589&currStreakNum=e8e0d5&sideNums=e8e0d5&dates=9e9589&stroke=00000000" height="160"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushbhootra576&layout=compact&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=9e9589&langs_count=6&custom_title=Top+Languages" height="160"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushbhootra576&bg_color=00000000&color=9e9589&line=F59E0B&point=e8e0d5&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/tanushbhootra576/tanushbhootra576/output/github-snake.svg"/>
-</picture>
-
-<br/><br/>
-
-[![View 3D Contribution Skyline](https://img.shields.io/badge/View%203D%20Contribution%20Skyline-F59E0B?style=flat-square&logoColor=0f0d0b)](https://skyline.github.com/tanushbhootra576/2024)
-
-</div>
-
 <br/>
 
 ---
@@ -181,36 +68,9 @@ VS Code extension that detects AI-generated code in real time via keystroke biom
 
 <div align="center">
 
-<!-- Spotify Now Playing -->
-<!-- Deploy https://github.com/novatorem/novatorem → replace URL below -->
-[![Now Playing on Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1a1410?style=flat-square&logo=spotify&logoColor=F59E0B)](https://open.spotify.com)
-<!-- <img src="https://YOUR-DEPLOYMENT.vercel.app/api/spotify" width="380"/> -->
-
-</div>
-
 <br/>
 
 ---
 
 <br/>
 
-<details>
-<summary>&nbsp;⏱&nbsp; Wakatime — Weekly Coding Stats</summary>
-<br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> **Setup:** Install [WakaTime](https://wakatime.com) in VS Code → add `WAKATIME_API_KEY` + `GH_TOKEN` as repo secrets → workflow runs daily.
-
-</details>
-
-<details>
-<summary>&nbsp;📌&nbsp; Currently Learning</summary>
-<br/>
-
-- Advanced LangGraph multi-agent orchestration patterns
-- Distributed systems — consensus algorithms (Raft)
-- Systems design for production ML inference
-
-</details>
