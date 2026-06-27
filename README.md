@@ -151,7 +151,7 @@ VS Code extension that detects AI-generated code in real time via keystroke biom
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanushbhootra576&theme=gruvbox&no-bg=true&no-frame=true&column=6&margin-w=8" alt="GitHub Trophies"/>
+<img src="./assets/orbit.svg" alt="Animated Tech Orbit" width="800"/>
 
 <br/><br/>
 
@@ -195,10 +195,9 @@ VS Code extension that detects AI-generated code in real time via keystroke biom
 
 <div align="center">
 
-[![Now Playing on Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1a1410?style=flat-square&logo=spotify&logoColor=F59E0B)](https://open.spotify.com)
-
-<!-- Deploy https://github.com/novatorem/novatorem to Vercel then uncomment below -->
-<!-- <img src="https://YOUR-DEPLOYMENT.vercel.app/api/spotify" width="380"/> -->
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Daily Programming Quote"/>
+</a>
 
 </div>
 

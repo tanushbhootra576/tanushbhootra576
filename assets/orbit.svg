@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .orbit {
+        fill: none;
+        stroke: #F59E0B;
+        stroke-width: 1;
+        stroke-dasharray: 4 6;
+        opacity: 0.3;
+      }
+      .planet {
+        fill: #1a1410;
+        stroke: #F59E0B;
+        stroke-width: 1.5;
+      }
+      .planet-text {
+        fill: #e8e0d5;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 12px;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .center-text {
+        fill: #F59E0B;
+        font-family: Georgia, serif;
+        font-size: 20px;
+        font-weight: bold;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        letter-spacing: 2px;
+      }
+      .glow {
+        filter: drop-shadow(0 0 8px rgba(245, 158, 11, 0.4));
+      }
+    </style>
+  </defs>
+
+  <!-- Background (Optional, using transparent to blend with README) -->
+  <rect width="800" height="400" fill="transparent"/>
+
+  <g transform="translate(400, 200)">
+    <!-- Center Node -->
+    <circle cx="0" cy="0" r="40" fill="#0f0d0b" stroke="#F59E0B" stroke-width="2" class="glow"/>
+    <text x="0" y="2" class="center-text">CORE</text>
+
+    <!-- Orbit 1 (Frontend/React) -->
+    <circle cx="0" cy="0" r="100" class="orbit"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+      
+      <!-- Planet 1 -->
+      <g transform="translate(100, 0)">
+        <circle cx="0" cy="0" r="25" class="planet"/>
+        <text x="0" y="1" class="planet-text">React</text>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+      </g>
+      
+      <!-- Planet 2 -->
+      <g transform="translate(-100, 0)">
+        <circle cx="0" cy="0" r="28" class="planet"/>
+        <text x="0" y="1" class="planet-text">Next.js</text>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- Orbit 2 (Backend/ML) -->
+    <circle cx="0" cy="0" r="160" class="orbit"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/>
+      
+      <!-- Planet 1 -->
+      <g transform="translate(160, 0)">
+        <circle cx="0" cy="0" r="28" class="planet"/>
+        <text x="0" y="1" class="planet-text">Python</text>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+      </g>
+      
+      <!-- Planet 2 -->
+      <g transform="translate(-80, 138.56)"> <!-- 160 * sin(120), 160 * cos(120) -->
+        <circle cx="0" cy="0" r="35" class="planet"/>
+        <text x="0" y="1" class="planet-text">LangChain</text>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+      </g>
+
+      <!-- Planet 3 -->
+      <g transform="translate(-80, -138.56)">
+        <circle cx="0" cy="0" r="28" class="planet"/>
+        <text x="0" y="1" class="planet-text">FastAPI</text>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+  </g>
+</svg>
