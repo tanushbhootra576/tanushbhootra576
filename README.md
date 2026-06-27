@@ -20,9 +20,9 @@
 
 ---
 
-CS undergrad, VIT Chennai. Second year. I build production-grade systems — ML backends that validate their own answers, developer security tools that work at the keystroke level, and React performance tooling with zero dependencies.
+Second-year B.Tech CS undergrad at VIT Chennai. I build full-stack systems and production-grade tools — ML backends that validate their own answers, civic and student platforms with real-time features, and zero-dependency React performance hooks. Strong foundation in DSA, algorithms, and scalable software design.
 
-Active in Bionary Club, CodeChef VITCC, and PhysicsWallah as a Web Developer and Student Ambassador.
+Web Developer and Student Ambassador at Bionary Club, CodeChef VITCC, and PhysicsWallah. Competing in hackathons, leading campus initiatives, and collaborating on projects that ship.
 
 ---
 
@@ -60,8 +60,10 @@ VS Code extension that detects AI-generated code in real time via keystroke biom
 | Project | What it does | Stack | Status |
 |---|---|---|:---:|
 | [use-web-kit](https://github.com/tanushbhootra576) | Zero-dependency React 19 hooks — RAF-batched, SSR-exact, 60fps by design | `TypeScript` `React 19` | 🟢 Stable |
-| [GridSaga](https://github.com/tanushbhootra576) | 2048 on a Rubik's Cube — geometry as game mechanic | `JavaScript` | 🔵 Complete |
-| [Campus Connect](https://github.com/tanushbhootra576) | Real-time student platform — chat, forums, project boards | `React` `Node.js` `MongoDB` | 🔵 Complete |
+| [Campus Connect](https://github.com/tanushbhootra576) | Student platform — real-time chat, discussion forums, project showcases | `React` `Node.js` `MongoDB` | 🔵 Complete |
+| [Civic Issue Reporting](https://github.com/tanushbhootra576) | Civic issue reporting with live maps — community-driven quick action | `React` `Maps API` `Node.js` | 🔵 Complete |
+| [GridSaga](https://github.com/tanushbhootra576) | 2048 on a Rubik's Cube — geometry as game mechanic | `Next.js` `TypeScript` | 🔵 Complete |
+| [Portfolio](https://tanushportfolio.vercel.app/) | Interactive personal portfolio — 3D interactions, responsive, creative UX | `Next.js` `Three.js` | 🟢 Live |
 
 <br/>
 
