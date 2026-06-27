@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Tanush Bhootra"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Building+self-healing+RAG+backends...;Keystroke-level+developer+security+tools.;Zero-dependency+React+19+hooks+%E2%80%94+60fps+by+design.;CS+Undergrad+%40+VIT+Chennai+%C2%B7+2nd+Year." alt="Typing SVG"/>
 
 <br/><br/>
