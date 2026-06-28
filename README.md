@@ -193,8 +193,8 @@ Third-year B.Tech Computer Science student at VIT Chennai.
 
 Building full-stack applications, AI systems, and developer tools.
 
-* Web Developer
-* Student Ambassador at Bionary Club, CodeChef VITCC, and PhysicsWallah
+* Web Develope rBionary Club & CodeChef VITCC
+* Student Ambassador at PhysicsWallah
 * Strong interest in software engineering, distributed systems, and machine learning
 
 ### Featured
