@@ -6,7 +6,7 @@ Building full-stack applications, AI systems, and developer tools.
 
 * Web Developer @CodeChef VITCC
 * Student Ambassador at PhysicsWallah
-* Strong interest in software engineering, distributed systems, and machine learning
+* Strong interest in software engineering, distributed systems, ai system , and machine learning
 
 ### Featured
 
@@ -24,10 +24,10 @@ VS Code extension for detecting AI-generated code using keystroke behavior analy
 
 ### Selected Projects
 
-* **use-web-kit** — React hooks library focused on performance and SSR compatibility.
-* **Campus Connect** — Student platform with chat, discussions, and project sharing.
-* **Civic Issue Reporting** — Civic reporting platform with map integration.
-* **GridSaga** — 2048-inspired puzzle game on a Rubik's Cube.
+* **use-web-kit** - React hooks library focused on performance and SSR compatibility.
+* **Grid** - Student platform with chat, discussions, and project sharing.
+* **Civic Issue Reporting** - Civic reporting platform with map integration.
+* **GridSaga** - 2048-inspired puzzle game on a Rubik's Cube.
 
 ### Recognition
 
